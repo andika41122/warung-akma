@@ -1,0 +1,15 @@
+.b-menu{
+    color:aqua;
+    justify-content: center;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+
+   
+}
+
+.c-menu{
+    background-color: blueviolet;
+}
+
+
